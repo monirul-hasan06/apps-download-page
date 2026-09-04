@@ -4,48 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Download page of StudyLens</title>
-    <style
-    *{
-    color : white;
-    font-family: monospace;
-    font-size:large;
-    font-weight: 700;
-    border : 0px;
-    padding : 0px;
-}
-body{
-    color : white;
-    background-color :rgba(6, 8, 10, 0.765);
-    padding : 0px;
-    border : 0px;
-}
-
-#download{
-    color :dodgerblue;
-    text-decoration: underline;
-    margin-right: 50%;
-    text-align: center;
-}
-
-body div h1{
-    border : 5px;
-    padding : 20px;
-    color :khaki;
-}
-
-body div p{
-    color :azure;
-    border : 10px;
-    padding : 50px;
-    font-family: monospace;
-}
-
-#setup{
-    border : 5px;
-    padding : 20px;
-    color :rgba(0, 255, 255, 0.671);
-}
-    </style>
 </head>
 <body>
     <div>
