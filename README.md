@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <div>
+
         <h1>StudyLens</h1>
         <p>
             StudyLens is a app that turns scanned notes, diagrams, and textbook pages into instant explanations and quiz practice also user can save those as a pdf.
